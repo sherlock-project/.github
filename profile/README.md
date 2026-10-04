@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sherlockproject.xyz">
-  <img src="https://assets.sherlockproject.xyz/sherlock-logo.png" alt="Sherlock Project" width="320">
+  <img src="https://assets.sherlockproject.xyz/sherlock-logo.png" alt="Sherlock Project">
 </a>
 
 <br>
