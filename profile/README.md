@@ -19,8 +19,12 @@
 
 ---
 
-Sherlock exists because people around the world keep making it better ❤️
 
 <a href="https://github.com/sherlock-project/sherlock/graphs/contributors">
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=sherlock-project/sherlock" alt="contributors"/>
 </a>
+
+<div align="center">
+<br>
+Made with ❤️ by people around the world
+</div>
